@@ -1,0 +1,1 @@
+observando que para fazer um push é necessario criar um novo repositorio para subir o projeto contanto que esteja em outra pasta no disco "c" pois caso contrario se for feito tentativa de envio de arquivo para o mesmo repositorio  existente remoto, ira gerar erro pois o sistema vai reconhecer repositorio como existente
